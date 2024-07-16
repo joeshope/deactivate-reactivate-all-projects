@@ -13,4 +13,4 @@ The purpose of this script is to run through Snyk Orgs to deactivate and reactiv
 <pre><code>pip install -r requirements.txt</code></pre>
 
 4. Run the main.py script - define all required org(s) in the --orgs argument
-example: <pre><code>python3 main.py --orgs "org-slug-1 org-slug-2"</code></pre>
+<pre><code>python3 main.py --orgs "org-slug-1 org-slug-2"</code></pre>
