@@ -6,7 +6,7 @@ The purpose of this script is to run through Snyk Orgs to deactivate and reactiv
 
 1. Clone this repository locally
 
-2. Define your Snyk API token (You can find your token in your [General Account Settings](https://app.snyk.io/account) after you login to Snyk.)
+2. (Optional) Define your Snyk API token (You can find your token in your [General Account Settings](https://app.snyk.io/account) after you login to Snyk.)
 <pre><code>export SNYK_TOKEN={API_TOKEN}</code></pre>
 
 3. Install required pip packages
